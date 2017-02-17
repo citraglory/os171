@@ -1,0 +1,9 @@
+On week 01 I learnt how to:
+- make new folders
+- make new empty files
+- make new file filled with texts
+- edit the content of the file
+- push and pull repository
+- use git commit and git add
+- use text editor at PuTTY
+- edit the file from browser directly 
