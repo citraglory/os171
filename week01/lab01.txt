@@ -20,3 +20,6 @@ drwxr-xr-x  2 citra.glory StafCS 4096 Feb 18 01:23 week09
 drwxr-xr-x  2 citra.glory StafCS 4096 Feb 18 01:23 week10
 drwxr-xr-x  2 citra.glory StafCS 4096 Feb 18 01:24 xtra
 /home/fasilkom/mahasiswa/c/citra.glory/os171/week01
+Today is date +%d\ %b\ %Y\ at %H:%M:%S
+Today is 
+Today is 18 Feb 2017 at 03:11:53
